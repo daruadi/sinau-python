@@ -1,7 +1,7 @@
 # update dan delete data pada dasarnya sama
 # update di memory kemudian rewrite semua isi file
 
-print('Pencatatan Laptop Darusinau :: Update File')
+print('Pencatatan Laptop Darusinau :: Delete File')
 file = open('daftar_laptop.txt')
 lines = file.readlines()
 
